@@ -1,10 +1,11 @@
 .hero {
     border: 1px solid burlywood;
-    margin: 3rem 13rem;
+    margin: 3rem 7rem;
     width: 65rem;
     height: 35.7rem;
     box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.525);
     border-radius: 6px;
+    justify-content: center;
 }
 
 .content {
